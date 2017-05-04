@@ -1,1 +1,3 @@
 # FilmBarcode2
+
+My second attempt at making this work, this time in Python...
