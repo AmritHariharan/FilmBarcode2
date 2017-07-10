@@ -3,7 +3,6 @@ import numpy as np
 import math
 from queue import *
 
-
 # -------------------- HELPER FUNCTIONS -------------------- #
 
 def get_average(q):
